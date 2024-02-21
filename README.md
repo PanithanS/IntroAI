@@ -1,2 +1,2 @@
 # IntroAI
-This code was used to support the TA as an Artificial Intelligence class at SKKU.
+This code is for the TA in  the Artificial Intelligence class.
